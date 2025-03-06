@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "title": "Филадельфия classic 4 кусочка",
+    "price": 650,
+    "description": ["Лосось", "сыр сливочный", "огурец"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fc997d89e-9406-496d-a033-745847a57e78&w=1920&q=75",
+    "rate": 150,
+    "category": "classic rolls"
+  },
+  {
+    "id": 2,
+    "title": "Филадельфия с креветкой 4 шт",
+    "price": 280,
+    "description": ["Креветка", "сыр сливочный", "огурец"],
+    "image": "http://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Feb34bd86-53ec-40fd-bc41-55d461b0ddbb&w=1920&q=75",
+    "rate": 500,
+    "category": "classic rolls"
+  },
+  {
+    "id": 3,
+    "title": "Сливочный лосось 4 кусочка",
+    "price": 720,
+    "description": ["Лосось", "сыр сливочный", "огурец"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F9304ca7c-8467-4a82-88eb-0ac389a03617&w=1920&q=75",
+    "rate": 450,
+    "category": "classic rolls"
+  },
+  {
+    "id": 4,
+    "title": "Филадельфия с угрём 4 кусочка",
+    "price": 590,
+    "description": ["Угорь", "сыр сливочный", "огурец", "соус унаги", "кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Faf2ad10e-ce35-4721-9124-e29b7ac69275&w=1920&q=75",
+    "rate": 430,
+    "category": "classic rolls"
+  },
+  {
+    "id": 4,
+    "title": "Филадельфия classic 8 шт",
+    "price": 290,
+    "description": ["Лосось", "сыр сливочный", "огурец"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fc3e7ec20-70e3-4854-9e80-a70f8780840e&w=1920&q=75",
+    "rate": 320,
+    "category": "classic rolls"
+  },
+  {
+    "id": 2,
+    "title": "Филадельфия с креветкой 8 шт",
+    "price": 680,
+    "description": ["Креветка", "сыр сливочный", "огурец"],
+    "image": "http://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Feb34bd86-53ec-40fd-bc41-55d461b0ddbb&w=1920&q=75",
+    "rate": 250,
+  "category": "classic rolls"
+  },
+  {
+    "id": 2,
+    "title": "Филадельфия с креветкой 8 шт",
+    "price": 280,
+    "description": ["Креветка", "сыр сливочный", "огурец"],
+    "image": "http://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Feb34bd86-53ec-40fd-bc41-55d461b0ddbb&w=1920&q=75",
+    "rate": 700,
+  "category": "popularni rolls"
+  },
+  {
+    "id": 3,
+    "title": "Сливочный лосось 8 шт",
+    "price":560,
+    "description": ["Лосось", "сыр сливочный", "огурец"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F9304ca7c-8467-4a82-88eb-0ac389a03617&w=1920&q=75",
+    "rate": 410,
+    "category": "classic rolls"
+  },
+  {
+    "id": 4,
+    "title": "Филадельфия с угрём 8 кусочка",
+    "price": 270,
+    "description": ["Угорь", "сыр сливочный", "огурец", "соус унаги", "кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Faf2ad10e-ce35-4721-9124-e29b7ac69275&w=1920&q=75",
+    "rate": 140,
+    "category": "classic rolls"
+  },
+  {
+    "id": 4,
+    "title": "Ясай маки 8 шт",
+    "price": 490,
+    "description": ["Огурец", "помидор", "листья салата", "укроп", "перец болгарский", "кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fe420e5f4-bef2-47ee-92f0-71e46880babc&w=1920&q=75",
+    "rate": 890,
+    "category": "maki rolls"
+  },
+  {
+    "id": 4,
+    "title": "Калифорния с кунжутом 8 шт",
+    "price": 390,
+    "description": ["Крабовый микс", "огурец", "кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F0055822e-7947-42b8-b96e-35b44c500b5c&w=640&q=75",
+    "rate": 200,
+    "category": "maki rolls"
+  },
+  {
+    "id": 4,
+    "title": "Тоби чикен маки 8 шт",
+    "price": 390,
+    "description": ["Курица терияки", "сыр сливочный", "огурец", "яблоко", "икра летучий рыбы"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F03d48db1-7988-4179-b3d5-95327980db31&w=640&q=75",
+    "rate": 300,
+    "category": "maki rolls"
+  },
+  {
+    "id": 4,
+    "title": "Гурме маки 8 шт",
+    "price": 590,
+    "description": ["Лосось копчёный", "сыр сливочный", "огурец", "листья салата", "кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F86db2d44-da69-49e1-ac0d-6ab6876c189b&w=640&q=75",
+    "rate": 600,
+    "category": "maki rolls"
+  },
+
+
+  {
+    "id": 4,
+    "title": "Chicken Best 8 шт",
+    "price": 290,
+    "description": ["Курица терияки", "огурец", "сыр сливочный", "соус кимчи", "соус спайси","икра летучий рыбы","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fbc55bd1a-d77b-48f7-a3ab-29f9edc6b20d&w=640&q=75",
+    "rate": 700,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Шио 8 шт",
+    "price": 590,
+    "description": ["Лосось гриль", "сыр сливочный", "майонез", "яблоко", "соус медовый","соус унаги","сыр твёрдый","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F357a4901-9df8-4eb9-b25a-a1428d06408b&w=640&q=75",
+    "rate": 100,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Лунное затмение",
+    "price": 890,
+    "description": ["Рис с натуральным пищевым красителем", "курица терияки", "сыр сливочный", "листья салата", "яблоко","крем бальзамический","соус терияки","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fd1439e6e-8e74-4c96-bc73-744f6c0d007f&w=640&q=75",
+    "rate": 800,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Лунное затмение",
+    "price": 290,
+    "description": ["Рис с натуральным пищевым красителем", "курица терияки", "сыр сливочный", "листья салата", "яблоко","крем бальзамический","соус терияки","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fd1439e6e-8e74-4c96-bc73-744f6c0d007f&w=640&q=75",
+    "rate": 340,
+    "category": "popularni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Osaka 8 шт",
+    "price": 890,
+    "description": ["Тунец", "крабовый микс", "сыр сливочный", "майонез", "соус кимчи","соус унаги","соус медовый","соус шрирача"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fffc46fdc-74d7-4a6b-ad2f-e6996e866d04&w=640&q=75",
+    "rate": 200,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Yoko Ono 8 шт",
+    "price": 760,
+    "description": ["Лосось", "креветки", "крем копчёный", "огурец", "соус медовый","соус унаги","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Fa3634d92-019b-4b74-b08b-9a3fcf863efb&w=640&q=75",
+    "rate": 350,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Токийская ночь",
+    "price": 490,
+    "description": ["Рис с натуральным пищевым красителем", "курица терияки", "сыр Чеддер", "крутоны", "салат айсберг","майонез","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F7997e6e5-042d-4006-9941-9a6344440bd7&w=640&q=75",
+    "rate": 500,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Токийская ночь",
+    "price": 490,
+    "description": ["Рис с натуральным пищевым красителем", "курица терияки", "сыр Чеддер", "крутоны", "салат айсберг","майонез","кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F7997e6e5-042d-4006-9941-9a6344440bd7&w=640&q=75",
+    "rate": 340,
+    "category": "popularni rolls" 
+  },
+  {
+    "id": 4,
+    "title": "Чёрный бархат",
+    "price": 690,
+    "description": ["Рис с натуральным пищевым красителем", "форель слабосолёная", "сыр сливочный", "огурец", "кунжут"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2F6ff0c7bd-b7b7-4af1-b10b-cc442359c7e5&w=1080&q=75",
+    "rate": 320,
+    "category": "firmeni rolls"
+  },
+  {
+    "id": 4,
+    "title": "Чёрная жемчужина",
+    "price": 390,
+    "description": ["Рис с натуральным пищевым красителем", "крабовый микс", "лосось", "сыр сливочный", "икра летучий рыбы","огурец"],
+    "image": "https://yaponamama.uz/_next/image?url=https%3A%2F%2Fcdn.delever.uz%2Fdelever%2Ff95ffa02-9da5-4bcc-9849-81e972827b07&w=640&q=75",
+    "rate": 340,
+    "category": "firmeni rolls"
+  }
+]

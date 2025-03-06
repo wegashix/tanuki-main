@@ -1,0 +1,32 @@
+.button {
+    font-family: inherit;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    transition-property: background-color;
+    border: none;
+    border-radius: 30px;
+    font-style: normal;
+    font-weight: 600;
+    color: white;
+}
+
+.small {
+    font-size: 16px;
+    padding: 10px 25px;
+}
+
+.big {
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 20px 60px;
+}
+
+.accent {
+    background-color: #Ac3b61; /* Красный цвет */
+}
+
+.accent:hover,
+.accent:focus,
+.accent:focus-within {
+    background-color:#d10046; /* Темно-красный при наведении */
+}

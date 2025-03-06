@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/avatar-img.png",
+    "name": "user1",
+    "id": 1,
+    "email": "user1@example.com",
+    "password": "password1",
+    "promoCode": "USER1DISCOUNT",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  },
+  {
+    "img": "/avatar-img.png",
+    "name": "user2",
+    "id": 2,
+    "email": "user2@example.com",
+    "password": "password2",
+    "promoCode": "USER2DISCOUNT",
+    "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6Ik5hbWUgU2NhbGVkIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  }
+]

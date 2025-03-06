@@ -1,0 +1,140 @@
+.head {
+    position: relative;
+    min-height: 165px;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #eee2dc;
+}
+
+.card {
+    background-color: white;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 100%;
+    max-width: 320px;
+    box-shadow: 12px 12px 24px rgba(211, 209, 216, 0.25);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 12px 12px 36px rgba(211, 209, 216, 0.4);
+}
+
+.card .price {
+    transition: background-color 0.3s ease;
+}
+
+.card:hover .price {
+    background-color: #123c69;
+    color: white;
+}
+
+.footer {
+    padding: 12px;
+    background-color: white;
+    color: #000;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 18px;
+    color: #000;
+    line-height: normal;
+}
+
+.description {
+    line-height: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #5b5b5e;
+    text-decoration: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.price {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background-color: white;
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #111719;
+    line-height: normal;
+}
+
+.currency {
+    color: #FF0000;
+}
+
+.rating {
+    position: absolute;
+    bottom: -10px;
+    left: 12px;
+    border-radius: 20px;
+    background-color: white;
+    padding: 3px 8px;
+    font-weight: 600;
+    font-size: 12px;
+    color: #000;
+    line-height: normal;
+    box-shadow: 0 4px 16px rgba(255, 0, 0, 0.2);
+}
+
+.add-to-card {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    background-color: #123C69;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+    border: none;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    transition-property: background-color;
+}
+
+.add-to-card:hover,
+.add-to-card:focus,
+.add-to-card:focus-within {
+    background-color: #123c69;
+}
+
+/* 📱 Адаптация для мобильных устройств */
+@media (max-width: 480px) {
+    .card {
+        max-width: 90%;
+        box-shadow: 8px 8px 16px rgba(211, 209, 216, 0.2);
+    }
+
+    .title {
+        font-size: 16px;
+    }
+
+    .description {
+        font-size: 12px;
+    }
+
+    .price {
+        font-size: 16px;
+        padding: 2px 8px;
+    }
+
+    .rating {
+        font-size: 10px;
+        padding: 2px 6px;
+    }
+
+    .add-to-card {
+        width: 28px;
+        height: 28px;
+    }
+}

@@ -1,0 +1,50 @@
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    margin-bottom: 20px;
+}
+
+.input-wrapp {
+    position: relative;
+}
+
+.input-wrapp img {
+    position: absolute;
+    top: 18px;
+    left: 16px;
+    width: 14px;
+    height: 14px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+    gap: 20px;
+    justify-items: center;
+}
+
+.dish {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    background-color: #fff;
+    text-align: center; 
+}
+
+.dish img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
